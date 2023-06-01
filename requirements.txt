@@ -1,0 +1,15 @@
+pandas==2.0.1
+deepchem==2.7.1
+catboost==1.1.1
+ipywidgets==8.0.6
+torch
+torchvision
+jax
+transformers
+simpletransformers
+tensorflow
+bertviz
+pytorch_lightning
+dm-haiku
+optax
+torch_geometric
